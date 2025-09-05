@@ -19,3 +19,11 @@
   flex-direction: column;
   gap: 10px;
 }
+
+.advaith-ka-box {
+  height: 125px;
+  width: 125px;
+  background-color: aqua;
+  border: 3px solid blue;
+  border-radius: 25%;
+}
