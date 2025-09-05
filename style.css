@@ -1,0 +1,13 @@
+.container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.red-box {
+  height: 100px;
+  width: 100px;
+  background-color: red;
+}
