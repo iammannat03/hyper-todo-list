@@ -13,3 +13,9 @@
   background-color: green;
   border: 5px solid black;
 }
+
+.flex-col {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
